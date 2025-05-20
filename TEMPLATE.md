@@ -1,24 +1,21 @@
 ---
-title: My Super Awesome Tutorial
-date: 1970-01-01
+title: Allan's cool tutorial
+date: 2025-05-19
 authors:
-  - name: John Doe
-  - name: Mary Jane
+  - name: Allan Dong
 ---
 
 ![relevant graphic or workshop logo](image/path)
 
 ## Introduction
 
-Write a short section on what the tutorial is aiming to accomplish.
-What is the motivation behind the tutorial?
-What do you want readers to gain from the tutorial?
+This tutorial will serve as a guide on how to program a esp32 to make a led blink at a certain rhythm. 
+I would like readers to learn how to program simple things on the esp32. I wanted to do this since I always liked
+programmable led's. 
 
 ### Learning Objectives
 
-- Bullet list of skills/concepts to be covered
-
-Any additional notes from the developers can be included here.
+-python
 
 ### Background Information
 
@@ -43,9 +40,7 @@ customize these for each workshop.
 
 ### Required Downloads and Installations
 
-List any required downloads and installations here.
-Make sure to include tutorials on how to install them.
-You can either make your own tutorials or include a link to them.
+circuit python
 
 ### Required Components
 
@@ -53,19 +48,20 @@ List your required hardware components and the quantities here.
 
 | Component Name | Quanitity |
 | -------------- | --------- |
-|                |           |
-|                |           |
+|     esp32 board|   1       |
+|     led        |   1       |
 
 ### Required Tools and Equipment
 
-List any tools and equipment you need here.
-(Ex, computer, soldering station, etc.)
+-computer
+-usb-c cable
 
-## Part 01: Name
+## Part 01: setting up esp32 board
+![esp32_board(esp32.jpg)
 
 ### Introduction
 
-Briefly introduce what  you are teaching in this section.
+How the board will connect to the led. 
 
 ### Objective
 
