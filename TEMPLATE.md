@@ -56,12 +56,18 @@ List your required hardware components and the quantities here.
 -computer
 -usb-c cable
 
+## Steps: 
+1. Setting up esp32 board
+2. Installing software on your computer
+3. Programming the esp32 board
+4. Getting the software onto your esp32 board
+
 ## Part 01: setting up esp32 board
-![esp32_board(esp32.jpg)
+![esp32_board](esp32.jpg)
 
 ### Introduction
 
-How the board will connect to the led. 
+This part I will show you how to connect a led to the pes32 board. 
 
 ### Objective
 
@@ -69,10 +75,7 @@ How the board will connect to the led.
 
 ### Background Information
 
-Give a brief explanation of the technical skills learned/needed
-in this challenge. There is no need to go into detail as a
-separation document should be prepared to explain more in depth
-about the technical skills
+Recognizing the connections on a esp32 board, and being able to connect a component to it. 
 
 ### Components
 
